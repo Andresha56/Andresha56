@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **Sometime I get confused by my own written code**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
