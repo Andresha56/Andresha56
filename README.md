@@ -9,7 +9,7 @@
 <h3 align="center">A small dot in this big universe</h3>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Andresha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Andresha" /></a></p><br><br>
+<p> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Andresha" /></p><br><br>
 <br>
 <br>
 <div align="center">
