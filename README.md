@@ -8,8 +8,6 @@
 <h1 align="center">Hi 👋, I'm Andresha56</h1>
 <h3 align="center">A small dot in this big universe</h3>
 
-<br>
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Andresha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Andresha" /></a></p><br><br>
 <br>
