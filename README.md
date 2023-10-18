@@ -1,8 +1,8 @@
 <h2 align="left"></h2>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" align="center" style="width: 20%", />
-</div>  
+<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" align="center" style="width: 100%" />
+</div> 
 
 ###
 
