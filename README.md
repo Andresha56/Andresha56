@@ -24,6 +24,18 @@
   <img src="https://profile-counter.glitch.me/andresha56/count.svg" alt="Visitor Count">
 </div>
 
+
+## 🎇 Community, & Achievements 
+<li>
+  <a href="https://www.hack4bengal.tech"/>
+  Contributing to Hack4Bengal's success as a Web Developer.
+</li>
+
+<li>
+  <a href="https://www.linkedin.com/posts/rinki-shaw-689a2121b_hackathon-collaboration-web3-activity-7089657037281755138-Djsf?utm_source=share&utm_medium=member_desktop"/>
+  Secured dual track prizes in Hack4Bengal 2.0 Hackathon, leading frontend development efforts for Team HexaByte.
+</li>
+
 # 📊 GitHub Stats:
 
 
