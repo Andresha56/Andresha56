@@ -5,7 +5,7 @@
 </div> 
 
 
-<h1 align="center">Hi 👋, I'm Rinki</h1>
+<h1 align="center">Hi 👋, I'm Andresha</h1>
 <h3 align="center">A small dot in this big universe</h3>
 
 ###
