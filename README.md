@@ -12,6 +12,9 @@
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"  />
 
+<div align="center">
+  ![VisitorCount](https://profile-counter.glitch.me/andresha56/count.svg)
+</div>
 ###
 
 # 💻 Tech Stack:
@@ -41,7 +44,7 @@
 
 
 
-![VisitorCount](https://profile-counter.glitch.me/Ayan-thecodeking/count.svg)
+
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/andresha56) 
