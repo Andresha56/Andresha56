@@ -8,9 +8,6 @@
 <h1 align="center">Hi 👋, I'm Andresha56</h1>
 <h3 align="center">A small dot in this big universe</h3>
 
-
-
-
 ###
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"  />
@@ -43,7 +40,9 @@
 </p>
 
 
-[![](https://visitcount.itsvg.in/api?id=andresha56&icon=6&color=5)](https://visitcount.itsvg.in)
+## [Andresha](https://andresha56.github.io/Portfolio/)
+![profile views](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+![VisitorCount](https://profile-counter.glitch.me/Ayan-thecodeking/count.svg)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/andresha56) 
