@@ -39,7 +39,7 @@
 
 ## 🎇 My Blogs 
 <li>
-  <a href="[https://www.hack4bengal.tech](https://andresha570.hashnode.dev/10-essential-javascript-concepts-to-master-before-diving-into-react)"/>
+  <a href="https://www.hack4bengal.tech](https://andresha570.hashnode.dev/10-essential-javascript-concepts-to-master-before-diving-into-react"/>
  A Beginner's Guide to Getting Started with React
 </li>
 
