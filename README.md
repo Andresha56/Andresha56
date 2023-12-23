@@ -40,8 +40,7 @@
 </p>
 
 
-## [Andresha](https://andresha56.github.io/Portfolio/)
-![profile views](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+
 ![VisitorCount](https://profile-counter.glitch.me/Ayan-thecodeking/count.svg)
 
   ## 💰 You can help me by Donating
