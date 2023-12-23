@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresha56&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+    <img src="https://github-readme-stats.herokuapp.com/api/top-langs/?username=andresha56&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
   </a>
 </p>
 
