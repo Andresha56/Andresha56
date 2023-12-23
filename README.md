@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=andresha56&theme=dark&hide_border=true&bg_color=0D111&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresha56&theme=dark&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&layout=compact"/>
   </a>
 </p>
 
