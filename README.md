@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresha56&theme=dark&hide_border=true&background=0D1117&stroke=0000&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresha56&theme=dark&hide_border=true&background=0D1117&stroke=0000&include_all_commits=true&count_private=true&layout=compact"/>
   </a>
 </p>
 
@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=andresha56&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=andresha56&theme=dark&hide_border=true&background=0D1117&stroke=0000&include_all_commits=true&count_private=true"/>
   </a>
 </p>
 
