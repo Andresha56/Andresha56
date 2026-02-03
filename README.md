@@ -129,19 +129,6 @@ I also have **working backend knowledge**, which helps me design frontend featur
 </p>
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andresha56&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=120&section=footer" />
-</p>
-
 <div align="center">
   <sub>
     Thoughtful UI • Predictable state • Performance that feels natural
