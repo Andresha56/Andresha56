@@ -1,78 +1,149 @@
-<h2 align="left"></h2>
-
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" align="center" style="width: 100%" />
-</div> 
 
+<!-- HERO -->
+<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Andresha</h1>
-<h3 align="center">A small dot in this big universe</h3>
+<h1>Hi, I’m Rinki Shaw 👋</h1>
 
-###
+<p>
+Frontend Engineer • React & TypeScript <br/>
+Focused on performance, clarity, and maintainable UI
+</p>
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"  />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Building+thoughtful+frontend+systems;Improving+UI+performance+in+real+apps;Clean+architecture+over+clever+code" />
 
+<br/><br/>
 
-  
+<img src="https://komarev.com/ghpvc/?username=andresha56&label=Profile%20Views&color=7AA2F7&style=flat" />
+<img src="https://img.shields.io/github/followers/andresha56?style=flat" />
 
-###
-
-# 👩‍💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/andresha56/count.svg" alt="Visitor Count">
 </div>
 
+---
 
-## 🎯 Community, & Achievements 
-<li>
-  <a href="https://www.hack4bengal.tech"/>
-  Contributing to Hack4Bengal's success as a Web Developer.
-</li>
+## 👩‍💻 About Me
 
-<li>
-  <a href="https://www.linkedin.com/posts/rinki-shaw-689a2121b_hackathon-collaboration-web3-activity-7089657037281755138-Djsf?utm_source=share&utm_medium=member_desktop"/>
-  Secured dual track prizes in Hack4Bengal 2.0 Hackathon, leading frontend development efforts for Team HexaByte.
-</li>
+I work on **real-world web applications** with evolving requirements and real users.  
+I enjoy simplifying complex UI flows, improving performance, and building frontend systems that are easy to reason about.
 
+I also have **working backend knowledge**, which helps me design frontend features that integrate cleanly and handle failures gracefully.
 
-## 📝 My Blogs 
-<li>
-  <a href="https://www.hack4bengal.tech](https://andresha570.hashnode.dev/10-essential-javascript-concepts-to-master-before-diving-into-react"/>
- A Beginner's Guide to Getting Started with React
-</li>
+---
 
+<hr style="border:0;height:1px;background:linear-gradient(to right,transparent,#7AA2F7,transparent);" />
 
-# 📈 GitHub Stats:
-
+## 🛠️ Tech & Tools
 
 <p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresha56&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&layout=compact"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,redux,tailwind,html,css" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,docker,githubactions" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,git" />
 </p>
 
+---
+
+<hr style="border:0;height:1px;background:linear-gradient(to right,transparent,#7AA2F7,transparent);" />
+
+## 🌱 Community & Writing
+
+- 🌐 **Web Developer Contributor — Hack4Bengal**  
+  https://www.hack4bengal.tech
+
+- 🏆 **Winner — Hack4Bengal 2.0 (Dual Track)**  
+  https://www.linkedin.com/posts/rinki-shaw-689a2121b_hackathon-collaboration-web3-activity-7089657037281755138-Djsf
+
+- ✍️ **Writing about React & Frontend Fundamentals**  
+  https://andresha570.hashnode.dev
+
+- 💻 **Open Source Contributor — GirlScript Summer of Code**  
+  Contributed to open-source projects alongside mentors and contributors - https://gssoc.girlscript.org/.
+
+---
+
+<hr style="border:0;height:1px;background:linear-gradient(to right,transparent,#7AA2F7,transparent);" />
+
+## 🚀 Selected Work
+
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+
+<td width="50%" style="padding:12px;">
+  <div style="padding:20px;border-radius:16px;background:rgba(255,255,255,0.08);backdrop-filter:blur(10px);border:1px solid rgba(255,255,255,0.15);">
+    <h3>📝 Real-Time Collaborative Editor</h3>
+    <p>
+      Designed to handle frequent updates smoothly  
+      without disrupting the editing experience.
+    </p>
+    <sub>State Handling • Performance</sub>
+  </div>
+</td>
+
+<td width="50%" style="padding:12px;">
+  <div style="padding:20px;border-radius:16px;background:rgba(255,255,255,0.08);backdrop-filter:blur(10px);border:1px solid rgba(255,255,255,0.15);">
+    <h3>📲 Scan-Based File Sharing</h3>
+    <p>
+      Fast, QR-based file sharing  
+      built for quick, time-sensitive use.
+    </p>
+    <sub>UX Feedback • Flow Design</sub>
+  </div>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" style="padding:12px;">
+  <div style="padding:20px;border-radius:16px;background:rgba(255,255,255,0.08);backdrop-filter:blur(10px);border:1px solid rgba(255,255,255,0.15);">
+    <h3>🎧 Lofi-Tasks</h3>
+    <p>
+      Calm, minimal task manager  
+      supporting long, focused work sessions.
+    </p>
+    <sub>UX Simplicity • Visual Clarity</sub>
+  </div>
+</td>
+
+<td width="50%" style="padding:12px;">
+  <div style="padding:20px;border-radius:16px;background:rgba(255,255,255,0.08);backdrop-filter:blur(10px);border:1px solid rgba(255,255,255,0.15);">
+    <h3>🧩 UI Systems & Open Source</h3>
+    <p>
+      Reusable UI components and patterns  
+      shaped through open-source collaboration.
+    </p>
+    <sub>GirlScript Summer of Code</sub>
+  </div>
+</td>
+
+</tr>
+</table>
+
+---
+
+<hr style="border:0;height:1px;background:linear-gradient(to right,transparent,#7AA2F7,transparent);" />
+
+## 🐍 Contribution Graph
 
 <p align="center">
-  <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=andresha56&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/andresha56/andresha56/output/github-contribution-grid-snake.svg" />
 </p>
 
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresha56&theme=dark&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&layout=compact"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=andresha56&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=120&section=footer" />
+</p>
 
-
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/andresha56) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <sub>
+    Thoughtful UI • Predictable state • Performance that feels natural
+  </sub>
+</div>
