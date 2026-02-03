@@ -56,7 +56,8 @@ I also have **working backend knowledge**, which helps me design frontend featur
   https://andresha570.hashnode.dev
 
 - 💻 **Open Source Contributor — GirlScript Summer of Code**  
-  Contributed to open-source projects alongside mentors and contributors - https://gssoc.girlscript.org/.
+  Contributed to open-source projects alongside mentors and contributors
+ https://gssoc.girlscript.org/.
 
 ---
 
