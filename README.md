@@ -6,7 +6,7 @@
 <h1>Hi, I’m Rinki Shaw 👋</h1>
 
 <p>
-Frontend Engineer • React & TypeScript <br/>
+Software Engineer <br/>
 Focused on performance, clarity, and maintainable UI
 </p>
 
@@ -24,9 +24,7 @@ Focused on performance, clarity, and maintainable UI
 ## 👩‍💻 About Me
 
 I work on **real-world web applications** with evolving requirements and real users.  
-I enjoy simplifying complex UI flows, improving performance, and building frontend systems that are easy to reason about.
-
-I also have **working backend knowledge**, which helps me design frontend features that integrate cleanly and handle failures gracefully.
+I enjoy simplifying complex UI flows, improving performance, and building frontend and backend features that are easy to reason about.
 
 ---
 
